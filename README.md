@@ -38,7 +38,8 @@ cd ASR-Automatic-Speech-Recognition-
 
 
 
-## Create and activate a virtual environment
+
+## Create and Activate a Virtual Environment
 
 python3 -m venv .venv
 source .venv/bin/activate      # macOS/Linux
